@@ -4,7 +4,6 @@ This is a simple exam seating arrangenment java app built using Java, CSS, html,
 .
 .
 .
-.
 This web project build using Netbeans IDE. Frame Work use Java Servlet and Jsp. Database Mysql.
 
 Installation instructions ==>
